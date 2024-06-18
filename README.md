@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Shriram Barai</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-- 🔭 I’m currently working on **[Your Project/Company Name]**
+- 🔭 I’m currently working at **CloverInfoTech**
 
-- 🌱 I’m currently learning **[Technology/Tool you're learning]**
+- 🌱 I’m currently learning **Node.js in depth**
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**
 
-- 📫 How to reach me **[Your Email]**
+- 📫 How to reach me **shrirambarai46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -73,4 +73,4 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shrirambarai46&theme=radical" alt="GitHub Streak" /></a>
