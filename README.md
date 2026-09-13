@@ -206,15 +206,6 @@ Final Answer
 * LLM generation
 * Source-aware responses
 
-### 🚀 Currently Building
-
-```text
-AI Summarizer          ✅
-RAG + Embeddings       ✅
-Chat with PDF          🔄
-AI Agents + Tools      🔜
-Production GenAI App   🔜
-```
 
 ---
 
@@ -232,31 +223,7 @@ Production GenAI App   🔜
 
 </p>
 
----
 
-## 🔥 Current Learning Journey
-
-```text
-React / Next.js
-      ↓
-Python
-      ↓
-FastAPI
-      ↓
-LLM Fundamentals
-      ↓
-Prompt Engineering
-      ↓
-Embeddings
-      ↓
-RAG
-      ↓
-AI Agents
-      ↓
-Tool Calling
-      ↓
-Production GenAI Applications
-```
 
 ---
 
