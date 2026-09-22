@@ -234,32 +234,6 @@ Production GenAI App   🔜
 
 ---
 
-## 🔥 Current Learning Journey
-
-```text
-React / Next.js
-      ↓
-Python
-      ↓
-FastAPI
-      ↓
-LLM Fundamentals
-      ↓
-Prompt Engineering
-      ↓
-Embeddings
-      ↓
-RAG
-      ↓
-AI Agents
-      ↓
-Tool Calling
-      ↓
-Production GenAI Applications
-```
-
----
-
 ## 💡 What I'm Interested In
 
 **Generative AI • LLM Applications • RAG • AI Agents • React • Next.js • Python • FastAPI • AI-powered Products**
