@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shriram%20Barai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shriram%20Barai&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+apps+with+Python+%26+LLMs+%F0%9F%A4%96;RAG+%E2%80%A2+Embeddings+%E2%80%A2+AI+Agents+%E2%80%A2+Tool+Calling;React+%2B+Next.js+%2B+FastAPI+%3D+Full-stack+GenAI+%F0%9F%9A%80;Building.+Learning.+Shipping.+Repeating." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+apps+with+Python+%26+LLMs+%F0%9F%A4%96;RAG+%E2%80%A2+Embeddings+%E2%80%A2+AI+Agents+%E2%80%A2+Tool+Calling;React+%2B+Next.js+%2B+FastAPI+%3D+Full-stack+GenAI+%F0%9F%9A%80;Building.+Learning.+Shipping.+Repeating." alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,6 +11,11 @@
   <a href="mailto:shrirambarai46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shrirambarai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ShriramBarai46&style=for-the-badge&color=36BCF7&label=Profile+Views"/>
+</p>
+
+<!-- animated highlight cards -->
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Highlights"/>
 </p>
 
 ---
@@ -74,6 +79,12 @@ class ShriramBarai:
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,figma" />
 </p>
 
+### 📊 Skill Levels
+
+<p align="center">
+  <img src="assets/skills.svg" width="100%" alt="Animated skill bars"/>
+</p>
+
 ---
 
 ## 🤖 GenAI Skills
@@ -132,30 +143,17 @@ Full RAG pipeline built **without LangChain** to understand every step.
 
 ### 🔄 How my RAG pipeline works
 
-```mermaid
-flowchart LR
-    A[📄 Document] --> B[✂️ Chunking]
-    B --> C[🔢 Embeddings]
-    C --> D[(🗂️ Vector Store)]
-    Q[❓ User Question] --> E[🔢 Question Embedding]
-    E --> F[🔍 Similarity Search]
-    D --> F
-    F --> G[📑 Top-K Chunks]
-    G --> H[🧠 LLM + Context]
-    H --> I[✅ Final Answer]
-```
+<p align="center">
+  <img src="assets/rag-pipeline.svg" width="100%" alt="Animated RAG pipeline"/>
+</p>
 
 ---
 
 ## 🗺️ GenAI Roadmap
 
-| Project | Status |
-|:--|:--:|
-| 📝 AI Summarizer | ✅ Done |
-| 📚 RAG + Embeddings | ✅ Done |
-| 📄 Chat with PDF | 🔄 In progress |
-| 🛠️ AI Agents + Tools | 🔜 Up next |
-| 🏭 Production GenAI App | 🔜 Planned |
+<p align="center">
+  <img src="assets/roadmap.svg" width="100%" alt="Animated roadmap"/>
+</p>
 
 ---
 
@@ -174,12 +172,13 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriramBarai46&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
----
-
-## 💡 Currently Interested In
+### 🐍 Contribution Snake
 
 <p align="center">
-  <b>Generative AI • LLM Applications • RAG • AI Agents • React • Next.js • Python • FastAPI • AI-powered Products</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriramBarai46/ShriramBarai46/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ShriramBarai46/ShriramBarai46/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -187,9 +186,9 @@ flowchart LR
 ## 🤝 Let's Connect
 
 <p align="center">
-  I'm open to <b>GenAI, Full-stack, Python and React</b> opportunities and collaborations.<br/>
+  I'm open to <b>GenAI, Full-stack, Python and React</b> opportunities and collaborations.<br/><br/>
   <a href="mailto:shrirambarai46@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shrirambarai/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Building.%20Learning.%20Shipping.%20Repeating.&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Building.%20Learning.%20Shipping.%20Repeating.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
