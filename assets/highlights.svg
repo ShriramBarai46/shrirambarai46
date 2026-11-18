@@ -22,7 +22,7 @@
   <g class="card c1">
     <rect x="10" y="15" width="200" height="120" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="2" class="glow"/>
     <text class="num n1" x="110" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="url(#g)">5+</text>
-    <text x="110" y="110" text-anchor="middle" font-size="15" fill="#c9d1d9">Years in IT</text>
+    <text x="110" y="110" text-anchor="middle" font-size="15" fill="#c9d1d9">Years</text>
   </g>
   <g class="card c2">
     <rect x="235" y="15" width="200" height="120" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="2" class="glow"/>
