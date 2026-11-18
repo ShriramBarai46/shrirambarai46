@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shriram%20Barai&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E40AF,100:3B82F6&height=220&section=header&text=Shriram%20Barai&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
