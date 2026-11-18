@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:shrirambarai46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shrirambarai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ShriramBarai46&style=for-the-badge&color=36BCF7&label=Profile+Views"/>
 </p>
 
@@ -24,7 +24,7 @@
 ```python
 class ShriramBarai:
     role       = "Frontend Developer → GenAI Developer"
-    experience = "5 years in IT"
+    experience = "5+ years total | 4+ years relevant"
     location   = "Mumbai, India 🇮🇳"
 
     frontend   = ["React", "Next.js", "TypeScript", "JavaScript"]
@@ -189,7 +189,7 @@ flowchart LR
 <p align="center">
   I'm open to <b>GenAI, Full-stack, Python and React</b> opportunities and collaborations.<br/>
   <a href="mailto:shrirambarai46@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shrirambarai/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Building.%20Learning.%20Shipping.%20Repeating.&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%"/>
