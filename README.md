@@ -1,7 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E40AF,100:3B82F6&height=220&section=header&text=Shriram%20Barai&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E40AF,100:3B82F6&height=220&section=header&text=Shriram%20Barai&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%86%92%20GenAI%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E40AF,100:0A1F44&height=120&section=footer&text=Building.%20Learning.%20Shipping.%20Repeating.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
